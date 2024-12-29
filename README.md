@@ -17,7 +17,11 @@ To run this project, ensure you have the following:
 
 - Hardware:
 
-  - A CUDA-compatible GPU (for GPU acceleration).
-  - A webcam (for live detection).
-  - Software Dependencies:
+  - A CUDA-compatible GPU (optional).
+  - Webcams configured (for live detection).
+
+- Software Dependencies:
+  - Python 3.9 
   - Install the required Python packages using the provided requirements.txt file:
+      - > pip install -r requirements.txt
+ 
