@@ -23,5 +23,5 @@ To run this project, ensure you have the following:
 - Software Dependencies:
   - Python 3.9 
   - Install the required Python packages using the provided requirements.txt file:
-      - > pip install -r requirements.txt
+    - 'pip install -r requirements.txt'
  
